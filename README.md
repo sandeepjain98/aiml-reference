@@ -28,6 +28,10 @@ https://playground.tensorflow.org/#activation=relu&batchSize=10&dataset=circle&r
 https://feast.dev/
 https://www.tecton.ai/blog/announcing-feast-0-10/
 
+# Clear ML 
+https://clear.ml/#
+
+
  
 
 
